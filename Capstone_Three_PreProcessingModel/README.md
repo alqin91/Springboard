@@ -1,4 +1,4 @@
-# Predicting Volcanic Eruptions
+# Distingushing messages: SPAM OR HAM
 
 *
 
