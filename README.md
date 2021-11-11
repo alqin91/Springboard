@@ -1,6 +1,6 @@
 # Predicting Volcanic Eruptions
 
-*What if scientists could anticipate and predicgt volcanic eruptions as simple as predicting weather? This would be a huge impact on people living near volcanoes and can potentially save millions of lives all over the world. If scientists could accurately predict a volcano's next eruption, people can evacuate much faster and more prepared, thus limiting damage.
+*What if scientists could anticipate and predict volcanic eruptions as simple as predicting weather? This would be a huge impact on people living near volcanoes and can potentially save millions of lives all over the world. If scientists could accurately predict a volcano's next eruption, people can evacuate much faster and more prepared, thus limiting damage.
 
 ## Data
 
